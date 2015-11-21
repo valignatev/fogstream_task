@@ -1,0 +1,4 @@
+__pycache__
+*.swp
+emails
+db.sqlite3
